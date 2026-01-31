@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=4500&pause=1000&color=F779A3&width=700&height=40&lines=Hello+World!;I'm+Chiara%F0%9F%91%8B)](https://git.io/typing-svg)
-![Programmer Coding GIF](https://github.com/user-attachments/assets/8e3b9310-ca4d-46f1-abb8-97c14b3f47f9)
+![cat day GIF](https://github.com/user-attachments/assets/07f363a9-18d9-4407-ae30-e0f3f22b0dc7)
 
 ---
 
