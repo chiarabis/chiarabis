@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=4500&pause=1000&color=F779A3&width=700&lines=Hello+World!;I'm+Chiara%F0%9F%91%8B)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=4500&pause=1000&color=F779A3&width=700&height=40&lines=Hello+World!;I'm+Chiara%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
+
 ## About me
 
 ### 🛠️ Current stack
