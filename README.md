@@ -6,9 +6,7 @@
 ## About me
 
 ### 🛠️ Current stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma)](https://skillicons.dev)
-
-I’m currently learning [Storybook](https://storybook.js.org/) and improve skills with Next.js
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,typescript,tailwind,figma)](https://skillicons.dev)
 
 ### 💖 What makes my heart beating
   - cats🐈
